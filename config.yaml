@@ -1,0 +1,5 @@
+mqtt_broker: 0.0.0.0
+mqtt_port: 1883
+users:
+- username: mqtt_user
+password: mqtt_pass
